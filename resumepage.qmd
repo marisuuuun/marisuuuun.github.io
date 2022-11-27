@@ -1,5 +1,5 @@
 ---
-title: "About Page"
+title: "Resume Page"
 format: html
 editor: visual
 ---
