@@ -5,9 +5,7 @@ editor:
     wrap: 72
 ---
 
-::: container
-::: grid
-::: {.g-col-12 .g-col-md-6}
+
 ![](img/avatar.jpeg "Picture of me at a conference in Denver"){.rounded-circle fig-align="center" width="60%"}
 
 
