@@ -1,9 +1,9 @@
 ---
-title: "Resume Page"
+title: "Resume"
 format: html
 editor: visual
 ---
 
-Helloooo
+Linked below is my resume.
 
 [ResumeMarisolFlores.docx](ResumeMarisolFlores.docx)
