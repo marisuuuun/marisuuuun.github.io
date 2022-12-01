@@ -1,8 +1,13 @@
 ---
 title: "Marisol Flores"
+editor: 
+  markdown: 
+    wrap: 72
 ---
+![ alt text for screen readers](img/avatar.jpeg "Picture of me at a conference in Denver") 
 
 I am senior at California State University Channel Islands in Camarillo.
 I am studying Mathematics with an emphasis in Statistics. I hope to get
-a job out of college doing Data Analytics at a company that I am passionate about
-where I can develop my analytical and programming skills. 
+a job out of college doing Data Analytics at a company that I am
+passionate about where I can develop my analytical and programming
+skills.
