@@ -8,6 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - coverletter.qmd
       - about.qmd
       - resumepage.qmd
 
