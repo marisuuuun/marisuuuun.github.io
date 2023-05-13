@@ -6,4 +6,4 @@ editor: visual
 
 Linked below is my resume.
 
-[FloresResume-2.pdf](FloresResume-2.pdf)
+[FloresResume.pdf](FloresResume-2.pdf)
